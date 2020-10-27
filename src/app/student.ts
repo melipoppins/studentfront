@@ -4,4 +4,5 @@ export class Student {
   gender: string;
   phone: string;
   address: string;
+  active: boolean;
 }
